@@ -15,7 +15,7 @@ module.exports = {
             price: 4.99,
             inventory: 1
 
-          },
+          }
           {
             sku: '123124',
             type: '4 lbs',
