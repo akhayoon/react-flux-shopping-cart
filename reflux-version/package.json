@@ -2,7 +2,7 @@
   "name": "reflux-version",
   "version": "0.0.0",
   "description": "reflux version of shopping cart",
-  "author": "Jane Doe",
+  "author": "Hussien K",
   "license": "MIT",
   "dependencies": {
     "jquery": "~2.1.3",
