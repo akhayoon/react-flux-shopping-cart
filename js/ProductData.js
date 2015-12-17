@@ -6,7 +6,7 @@ module.exports = {
       {
         id: '0011001',
         name: 'Potatoe Bags',
-        image: 'http://www.macgasm.net/wp-content/uploads/2011/11/sack-of-potatoes.jpg',
+        image: 'sack-of-potatoes.jpg',
         description: 'The finest potatoes from P.E.I',
         variants: [
           {
@@ -15,7 +15,7 @@ module.exports = {
             price: 4.99,
             inventory: 1
 
-          }
+          },
           {
             sku: '123124',
             type: '4 lbs',
